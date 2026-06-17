@@ -1,3 +1,4 @@
+![Analysis](https://github.com/avanit-singh/azure-card-transaction-etl-pipeline/actions/workflows/run_analysis.yml/badge.svg)
 # Azure End-to-End Card Transaction ETL Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
