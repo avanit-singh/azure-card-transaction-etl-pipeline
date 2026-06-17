@@ -7,6 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: Install dependencies
+        run: pip install pandas pyspark
 
       - name: Set up Python
         uses: actions/setup-python@v4
